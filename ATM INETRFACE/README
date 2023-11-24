@@ -3,7 +3,8 @@
 
 ## Overview
 
-This is a console-based ATM (Automated Teller Machine) application built in Python using the Tkinter library. The system is designed to handle basic banking operations such as viewing transaction history, withdrawing funds, depositing funds, transferring funds, and quitting the application.
+This is a console-based ATM (Automated Teller Machine) application built in Python using the Tkinter library. The system is designed to handle basic banking operations 
+such as viewing transaction history, withdrawing funds, depositing funds, transferring funds, and quitting the application.
 
 ## License
 
@@ -27,7 +28,6 @@ To use the ATM application, follow these steps:
  
 
 4. Enter your user ID and PIN when prompted.
-
 Make sure to replace `your-username` with your actual GitHub username or the organization name if it's under an organization.
 
-Including the license information in your README helps users and contributors understand the terms under which they can use, modify, and distribute your code. It's a good practice for open-source projects. If you have any specific questions or if there's anything else you'd like to add or modify, feel free to let me know!
+Including the license information in your README helps users and contributors understand the terms under which they can use, modify, and distribute your code.
